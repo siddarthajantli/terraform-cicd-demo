@@ -14,4 +14,4 @@ phases:
 
   build:
     commands:
-      - bash -x apply-terraform.sh
+      - ./apply-terraform.sh
